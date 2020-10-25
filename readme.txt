@@ -1,1 +1,1 @@
-Hii these are my Alorithms written in C
+Hii these are my Alorithms written in C language
